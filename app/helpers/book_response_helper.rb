@@ -1,0 +1,2 @@
+module BookResponseHelper
+end
